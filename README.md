@@ -76,4 +76,4 @@ If you are looking for a skilled and committed senior Angular/ IONIC developer, 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tortuch&theme=highcontrast&show_icons=true&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuch&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165" >
 </p>
-<img src="https://github.com/punitkmryh/punitkmryh/blob/main/wave.svg" />
+<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
