@@ -1,10 +1,10 @@
-## <img height="60" width="60" src="https://github.com/tortuch/tortuch/blob/master/img/hello.gif" /> Let your dreams come true !
+## <img height="60" width="60" src="https://github.com/tortuch/tortuch/blob/main/img/hello.gif" /> Let your dreams come true !
 
 
 Talking about Personal Stuffs:
 
 - NickName: Tortu ( Senior Angular/ NgRx/ RxJS Developer | Web & Mobile ).<br>
-<img align="right" width="350" src="https://github.com/tortuch/tortuch/blob/master/img/image03.gif" />
+<img align="right" width="350" src="https://github.com/tortuch/tortuch/blob/main/img/image03.gif" />
 
 - Over 7 years of experience working in a corporate environment as an Angular / IONIC developer.<br>
 - Strong technical skills in complex web, and mobile app development using Angular and IONIC.<br>
@@ -61,12 +61,12 @@ If you are looking for a skilled and committed senior Angular/ IONIC developer, 
 <code><img height="35" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg"></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png" ></code>
 <code><img height="35" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png"></code>
-<code><img height="35" src="https://github.com/tortuch/tortuch/blob/master/img/pwa.png"></code>
+<code><img height="35" src="https://github.com/tortuch/tortuch/blob/main/img/pwa.png"></code>
 <code><img height="35" width="35" src="https://mir-s3-cdn-cf.behance.net/project_modules/max_3840/4b228024863997.5633b53b3205f.png"></code>
-<code><img height="35" src="https://github.com/tortuch/tortuch/blob/master/img/erp.png"></code>
-<code><img height="35" src="https://github.com/tortuch/tortuch/blob/master/img/crm.png"></code>
-<code><img height="35" src="https://github.com/tortuch/tortuch/blob/master/img/b2b.png"></code>
-<code><img height="35" src="https://github.com/tortuch/tortuch/blob/master/img/b2c.png"></code>
+<code><img height="35" src="https://github.com/tortuch/tortuch/blob/main/img/erp.png"></code>
+<code><img height="35" src="https://github.com/tortuch/tortuch/blob/main/img/crm.png"></code>
+<code><img height="35" src="https://github.com/tortuch/tortuch/blob/main/img/b2b.png"></code>
+<code><img height="35" src="https://github.com/tortuch/tortuch/blob/main/img/b2c.png"></code>
 <br><br>
 </details>
 
@@ -76,4 +76,4 @@ If you are looking for a skilled and committed senior Angular/ IONIC developer, 
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=tortuch&theme=highcontrast&show_icons=true&count_private=true" alt="my github stats" width="420" />&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tortuch&langs_count=8&layout=compact&theme=highcontrast&include_all_commits=true&count_private=true" height="165" >
 </p>
-<img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
+<img src="https://github.com/punitkmryh/punitkmryh/blob/main/wave.svg" />
