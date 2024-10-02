@@ -9,7 +9,7 @@ Talking about Personal Stuffs:
 - Over 7 years of experience working in a corporate environment as an Angular / IONIC developer.<br>
 - Strong technical skills in complex web, and mobile app development using Angular and IONIC.<br>
 - Experience in system analysis, design, workflow architecture, development, testing, and maintenance of web, and mobile applications.<br>
-- Experience developing highly interactive web, and mobile applications utilizing JavaScript, TypeScript, JSON, Bootstrap/ TailwindCSS, Angular 10 ~ 17, Angular SSR, Angular Material, Ionic, integrating GraphQL/ Rest API/ Soap API<br>
+- Experience developing highly interactive web, and mobile applications utilizing JavaScript, TypeScript, JSON, Bootstrap/ TailwindCSS, Angular 10 ~ 18, Angular SSR, Angular Material, Ionic, integrating GraphQL/ Rest API/ Soap API<br>
 - Experience in writing automated tests to ensure the quality and reliability of the codebase.<br>
 - Experience in working with Custom Component, Directive, Service, and Pipe of Angular.<br>
 - Extensive experience in working with the Agile Development process.<br>
