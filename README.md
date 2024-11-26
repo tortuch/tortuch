@@ -3,7 +3,7 @@
 
 Talking about Personal Stuffs:
 
-- NickName: Tortu ( Senior Angular/ NgRx/ RxJS Developer | Web & Mobile ).<br>
+- Senior Angular/ NgRx/ RxJS Developer | Web & Mobile<br>
 <img align="right" width="350" src="https://github.com/tortuch/tortuch/blob/main/img/image03.gif" />
 
 - Over 7 years of experience working in a corporate environment as an Angular / IONIC developer.<br>
